@@ -1,2 +1,2 @@
-export const myName = "Quang Phuc"
+export const myName = "Le Quang Phuc"
 
